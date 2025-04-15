@@ -35,6 +35,6 @@ def emotion_detector(text_to_analyze):
         'joy': joy_score,
         'sadness': sadness_score,
         'dominant_emotion': dominant_emotion_key
-    }  
-    
+    }
+        
     return result
